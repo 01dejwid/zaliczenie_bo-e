@@ -10,7 +10,7 @@ namespace Zaliczenie.Models.Receipt
 
         private const string SaveFolder = "Receipt";
 
-        public abstract void GetReceipt();
+        public abstract void CreateReceipt();
 
         public void ShowReceipt(string receipt)
         {

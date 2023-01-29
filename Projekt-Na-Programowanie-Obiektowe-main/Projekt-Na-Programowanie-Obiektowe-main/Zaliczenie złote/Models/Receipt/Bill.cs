@@ -4,7 +4,7 @@ namespace Zaliczenie.Models.Receipt
 {
     public class Bill : ReceiptBase
     {
-        public override void GetReceipt()
+        public override void CreateReceipt()
         {
             var receipt = CreateBill();
             ShowReceipt(receipt);
