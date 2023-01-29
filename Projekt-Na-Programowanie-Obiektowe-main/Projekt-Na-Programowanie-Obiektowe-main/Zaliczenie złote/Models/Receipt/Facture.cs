@@ -4,7 +4,7 @@ namespace Zaliczenie.Models.Receipt
 {
     public class Facture : ReceiptBase
     {
-        public override void GetReceipt()
+        public override void CreateReceipt()
         {
             Console.WriteLine("Please enter your tax identification number");
         }

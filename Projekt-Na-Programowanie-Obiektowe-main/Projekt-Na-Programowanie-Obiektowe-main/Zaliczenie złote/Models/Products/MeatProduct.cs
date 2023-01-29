@@ -4,7 +4,7 @@ namespace Zaliczenie.Models.Products
 {
     public class MeatProduct : Product
     {
-        public MeatProduct(string name, float price, MeatType meatType) : base(name, price)
+        public MeatProduct(string name, float price, FoodType meatType) : base(name, price)
         {
             Name = name;
             Price = price;
@@ -13,7 +13,7 @@ namespace Zaliczenie.Models.Products
 
         public DateTime ExpirationDate { get; }
 
-        public MeatType MeatType { get; }
+        public FoodType MeatType { get; }
 
         public override void DisplayProduct(int number)
         {
