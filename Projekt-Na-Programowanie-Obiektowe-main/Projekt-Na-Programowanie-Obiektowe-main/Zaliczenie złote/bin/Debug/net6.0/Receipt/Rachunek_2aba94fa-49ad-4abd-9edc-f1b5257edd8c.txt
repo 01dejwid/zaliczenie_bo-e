@@ -1,0 +1,5 @@
+Rachunek z dnia 29.01.2023 02:54:46.
+Steak 12
+Beer 3,2
+Rib 15
+Cena koncowa 30,2.

@@ -1,0 +1,7 @@
+Rachunek z dnia 21.01.2023 17:20:33.
+Firma o numerze nip: 12312314.
+Beer 3,2
+Wine 3,2
+Beer 3,2
+Steak 12
+Cena ko?cowa 21,6.
